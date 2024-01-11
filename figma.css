@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+    padding-left:30px
+}
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+
+#navbar img {
+
+    width: 100px;
+    margin-left: 100px;
+}
+
+#navbar ul {
+    display: flex;
+    margin-right: 100px;
+
+}
+.button{
+    background: linear-gradient(90deg, #F1C638 0%, #FCDE7D 51%, #ECC547 100%); border-radius: 8px; border: 1px #EECA53 solid;
+    margin-left: 20px;
+    margin-top:3px;
+    height: 24px;
+    width:96px
+}
+.heading1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.planrow{
+    margin-top: 100px;
+}
+.plan1{
+   height: 60px;
+   padding: 20px;
+   text-align: center;
+    background: linear-gradient(90deg, #F1C638 0%, #FCDE7D 51%, #ECC547 100%);
+    border-radius: 10px; 
+    width:250px;
+   
+}
+.datasec1{
+    background-color: #FFF9E2;
+    margin-top: 100px;
+    height:84px
+}
+    .dataitem1{
+   font-size: 18px;
+   font-weight: 400px;
+   padding-top: 8px;
+}
+.datasec2{
+    background-color: #FFF;
+ 
+    height:84px
+}
+.datasec3{
+    background-color: #FFF9E2;
+   
+    height:84px
+}
+
+.footer{
+    background-color: #FFF9E2;
+    margin-top: 200px;
+    height: 600px;
+
+}
+.image1{
+    margin-top: 40px;
+    margin-left: 140px;;
+   
+}
+.footertext{
+    font-size: 18px;
+    font-weight: 400px;
+    padding-top: 8px;
+    margin-left: 100px;;
+
+}
+.footertext1{
+    padding-top: 80px;
+    padding-left: 80px;
+    font-size: 33px;
+}
+.footertext2{
+    padding-left: 50px;
+    
+    padding-top: 100px;
+}
+
+.footertext3{
+    padding-left: 50px;
+    font-size: 18px;
+   
+}
+.footertext5{
+    margin-top: 150px;
+}
+.footertext5{
+    margin-left: 80px;
+}
